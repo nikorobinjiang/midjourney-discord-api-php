@@ -1,3 +1,6 @@
+I apologize, but I couldn't find where to ask questions, so I'm writing it here.
+may I ask why I keep encountering the following error when using this demo: "This permission has expired, please wait a few minutes and try again." 
+However, I have already updated to the latest token.
 # Midjourney PHP Library for Discord API Image Generation
 
 This PHP library provides a simple interface for generating images using the Midjourney Bot through the Discord API.
